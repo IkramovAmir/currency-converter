@@ -1,0 +1,1 @@
+URL = 'https://nbu.uz/en/exchange-rates/json/'
